@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Finsmart_v19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7896acc4ae59afade9e95fac44e3f8e7f20d68f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+048280e366e0fde1e06233a6afd54ee9bf89e32e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Finsmart_v19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Finsmart_v19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

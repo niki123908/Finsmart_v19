@@ -1,4 +1,5 @@
 using Finsmart_v19.Data;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
 namespace Finsmart_v19
@@ -14,6 +15,11 @@ namespace Finsmart_v19
             builder.Services.AddDbContext<DataContext>(option =>
             {
                 option.UseSqlServer(builder.Configuration.GetConnectionString("Finsmart"));
+            });
+
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
+            {
+                options.LoginPath = "/Account";
             });
             var app = builder.Build();
 

@@ -5,12 +5,512 @@
       "PackagePath": "staticwebassets\\Finsmart_v19.bundle.scp.css"
     },
     {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
       "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\html\\cards-basic.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\index.html",
+      "PackagePath": "staticwebassets\\html\\index.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\html\\layouts-container.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\html\\tables-basic.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\html\\ui-badges.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\html\\ui-footer.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\html\\ui-modals.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\html\\ui-progress.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\html\\ui-typography.html"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
     },
     {
       "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\js\\site.js",
@@ -243,6 +743,394 @@
     {
       "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\_colors.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_components.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\scss\\core.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Finsmart_v19.Microsoft.AspNetCore.StaticWebAssets.props",
