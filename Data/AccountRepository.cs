@@ -74,7 +74,7 @@ namespace Finsmart_final.Data
                 UserName = registerDto.Email,
                 Email = registerDto.Email,
                 Others = registerDto.Others,
-                PasswordHash = registerDto.Password,
+                Password = registerDto.Password,
             };
             var result = await _userManeger.CreateAsync(user, registerDto.Password);
 

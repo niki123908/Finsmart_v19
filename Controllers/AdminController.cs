@@ -7,25 +7,27 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Finsmart_final.Entities;
 using Finsmart_v19.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Finsmart_v19.Controllers
 {
-    public class TransactionsController : Controller
+//    [Authorize(Roles = "Admin")]
+    public class AdminController : Controller
     {
         private readonly DataContext _context;
 
-        public TransactionsController(DataContext context)
+        public AdminController(DataContext context)
         {
             _context = context;
         }
 
-        // GET: Transactions
+        // GET: Admin
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Transaction.ToListAsync());
+            return View(await _context.appUsers.ToListAsync());
         }
 
-        // GET: Transactions/Details/5
+        // GET: Admin/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -33,39 +35,39 @@ namespace Finsmart_v19.Controllers
                 return NotFound();
             }
 
-            var transaction = await _context.Transaction
-                .FirstOrDefaultAsync(m => m.TransactionId == id);
-            if (transaction == null)
+            var appUser = await _context.appUsers
+                .FirstOrDefaultAsync(m => m.UserId == id);
+            if (appUser == null)
             {
                 return NotFound();
             }
 
-            return View(transaction);
+            return View(appUser);
         }
 
-        // GET: Transactions/Create
+        // GET: Admin/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Transactions/Create
+        // POST: Admin/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("TransactionId,Title,TransType,Descriptions,Amount,CreatedAt,UserId")] Transaction transaction)
+        public async Task<IActionResult> Create([Bind("UserId,UserName,Password,Email,Others,Balance")] AppUser appUser)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(transaction);
+                _context.Add(appUser);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(transaction);
+            return View(appUser);
         }
 
-        // GET: Transactions/Edit/5
+        // GET: Admin/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -73,22 +75,22 @@ namespace Finsmart_v19.Controllers
                 return NotFound();
             }
 
-            var transaction = await _context.Transaction.FindAsync(id);
-            if (transaction == null)
+            var appUser = await _context.appUsers.FindAsync(id);
+            if (appUser == null)
             {
                 return NotFound();
             }
-            return View(transaction);
+            return View(appUser);
         }
 
-        // POST: Transactions/Edit/5
+        // POST: Admin/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("TransactionId,Title,TransType,Descriptions,Amount,CreatedAt,UserId")] Transaction transaction)
+        public async Task<IActionResult> Edit(int id, [Bind("UserId,UserName,Password,Email,Others,Balance")] AppUser appUser)
         {
-            if (id != transaction.TransactionId)
+            if (id != appUser.UserId)
             {
                 return NotFound();
             }
@@ -97,12 +99,12 @@ namespace Finsmart_v19.Controllers
             {
                 try
                 {
-                    _context.Update(transaction);
+                    _context.Update(appUser);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!TransactionExists(transaction.TransactionId))
+                    if (!AppUserExists(appUser.UserId))
                     {
                         return NotFound();
                     }
@@ -113,10 +115,10 @@ namespace Finsmart_v19.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(transaction);
+            return View(appUser);
         }
 
-        // GET: Transactions/Delete/5
+        // GET: Admin/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -124,34 +126,34 @@ namespace Finsmart_v19.Controllers
                 return NotFound();
             }
 
-            var transaction = await _context.Transaction
-                .FirstOrDefaultAsync(m => m.TransactionId == id);
-            if (transaction == null)
+            var appUser = await _context.appUsers
+                .FirstOrDefaultAsync(m => m.UserId == id);
+            if (appUser == null)
             {
                 return NotFound();
             }
 
-            return View(transaction);
+            return View(appUser);
         }
 
-        // POST: Transactions/Delete/5
+        // POST: Admin/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var transaction = await _context.Transaction.FindAsync(id);
-            if (transaction != null)
+            var appUser = await _context.appUsers.FindAsync(id);
+            if (appUser != null)
             {
-                _context.Transaction.Remove(transaction);
+                _context.appUsers.Remove(appUser);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool TransactionExists(int id)
+        private bool AppUserExists(int id)
         {
-            return _context.Transaction.Any(e => e.TransactionId == id);
+            return _context.appUsers.Any(e => e.UserId == id);
         }
     }
 }
