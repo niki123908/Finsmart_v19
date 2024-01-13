@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Dtos",
     "\\Entities",
-    "\\Interfaces"
+    "\\Interfaces",
+    "\\Views",
+    "\\Views\\Account",
+    "\\Views\\Home",
+    "\\wwwroot"
   ],
   "SelectedNode": "\\Finsmart_v19.sln",
   "PreviewInSolutionExplorer": false

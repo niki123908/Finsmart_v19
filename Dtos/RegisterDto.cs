@@ -15,7 +15,8 @@ namespace Finsmart_v19.Dtos
         [Display(Name = "Confirm password")]
         [Required] public string ConfirmPassword { get; set; }
         [Display(Name = "Tên đăng nhập")]
-        [Required] public string Username { get; set; } 
+        [Required] public string Username { get; set; }
         [Required] public string Others { get; set; } = null!;
-    }   
+        public string RandomKey { get; set; }
+    }
 }

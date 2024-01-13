@@ -1,4 +1,5 @@
 using Finsmart_v19.Data;
+using Finsmart_v19.Helper;
 using Microsoft.EntityFrameworkCore;
 
 namespace Finsmart_v19
@@ -15,6 +16,7 @@ namespace Finsmart_v19
             {
                 option.UseSqlServer(builder.Configuration.GetConnectionString("Finsmart"));
             });
+            builder.Services.AddAutoMapper(typeof(DataContext));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
