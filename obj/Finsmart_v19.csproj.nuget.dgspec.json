@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\Finsmart_v19.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Finsmart_v19\\Finsmart_v19.csproj": {}
   },
   "projects": {
-    "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\Finsmart_v19.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Finsmart_v19\\Finsmart_v19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\Finsmart_v19.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Finsmart_v19\\Finsmart_v19.csproj",
         "projectName": "Finsmart_v19",
-        "projectPath": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\Finsmart_v19.csproj",
-        "packagesPath": "C:\\Users\\hieu1\\.nuget\\packages\\",
-        "outputPath": "D:\\hieu\\subject\\ki thuat phan mem\\Finsmart_v19\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Finsmart_v19\\Finsmart_v19.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Finsmart_v19\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hieu1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +40,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -89,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
