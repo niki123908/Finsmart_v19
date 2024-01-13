@@ -6,11 +6,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Finsmart_v19.Data
 {
-    public class DataContext : IdentityDbContext<AppUser>
+    public class DataContext : DbContext
     {
         public DataContext(DbContextOptions<DataContext> opts) : base(opts)
         {
-            
+
         }
 
         #region Dbset
@@ -19,3 +19,4 @@ namespace Finsmart_v19.Data
         #endregion
     }
 }
+

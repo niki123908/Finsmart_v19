@@ -258,3 +258,4 @@ D:\hieu\subject\ki thuat phan mem\Finsmart_v19\bin\Debug\net8.0\Microsoft.AspNet
 D:\hieu\subject\ki thuat phan mem\Finsmart_v19\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\hieu\subject\ki thuat phan mem\Finsmart_v19\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\hieu\subject\ki thuat phan mem\Finsmart_v19\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\hieu\subject\ki thuat phan mem\Finsmart_v19\obj\Debug\net8.0\Finsmart_v19.sourcelink.json
