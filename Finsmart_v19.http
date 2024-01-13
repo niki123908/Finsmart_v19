@@ -1,0 +1,19 @@
+﻿@Finsmart_v19_HostAddress = https://localhost:7137
+
+POST {{Finsmart_v19_HostAddress}}/api/account/LogIn
+Content-Type: application/json
+
+{
+  //LoginDto
+}
+
+###
+
+POST {{Finsmart_v19_HostAddress}}/api/account/Register
+Content-Type: application/json
+
+{
+  //RegisterDto
+}
+
+###
